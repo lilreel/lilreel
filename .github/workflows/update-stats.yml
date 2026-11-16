@@ -29,7 +29,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=lilreel&layout=compact&langs_count=6&theme=algolia
+          options: username=lilreel&show_icons=true&theme=algolia&hide_rank=false
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
