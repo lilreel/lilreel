@@ -1,3 +1,18 @@
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=lilreel&amp;label=Profile%20views&amp;color=5A7CE2&amp;style=flat"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="./banner.png"
+    alt="Chalil Al Vareel — Back-end Developer, Data Scientist, and Data Analyst"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">
   Hi, I'm Chalil Al Vareel
   <img
