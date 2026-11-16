@@ -1,12 +1,5 @@
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=lilreel&amp;label=Profile%20views&amp;color=5A7CE2&amp;style=flat"
-    alt="Profile views"
-  />
-</p>
-
-<p align="center">
-  <img
     src="./banner.png"
     alt="Chalil Al Vareel — Back-end Developer, Data Scientist, and Data Analyst"
     width="100%"
@@ -42,6 +35,10 @@
   <a href="https://docs.google.com/document/d/1rtKnqQO5egYKJTizQU1E5miM5U0pKv-YLsXmFgoR3KA/edit?usp=sharing">
     <img src="https://img.shields.io/badge/View_CV-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
   </a>
+    <img
+    src="https://komarev.com/ghpvc/?username=lilreel&amp;label=Profile+views&amp;color=5A7CE2&amp;style=for-the-badge"
+    alt="Profile views"
+  />
 </p>
 
 ## About Me
