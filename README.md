@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vareelac">
+  <a href="https://www.linkedin.com/in/cavareel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/cavareel/">
@@ -24,7 +24,7 @@
   <a href="mailto:chalilalvareel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://docs.google.com/document/d/1rtKnqQO5egYKJTizQU1E5miM5U0pKv-YLsXmFgoR3KA/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing">
     <img src="https://img.shields.io/badge/View_CV-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
   </a>
 </p>
@@ -35,37 +35,10 @@ I'm a Computer Science graduate from **Universitas Sumatera Utara**. I enjoy
 building back-end services, connecting APIs, and exploring practical uses for
 machine learning.
 
-My recent work includes healthcare services, AI-assisted tourism
-recommendations, and public information systems for North Sumatra.
-
-## Recent Work
-
-### Healthcare Services
-
-Contributing to healthcare APIs for the **Sumut Cerdas** ecosystem. The work
-covers healthcare facility search, location-based discovery, administrative
-workflows, regional data, and hospital service integrations. Hospital
-connectors are being tested in a staging environment.
-
-`Laravel` `PHP` `MySQL` `JWT SSO` `MinIO` `Docker`
-
-### AI Tourism Recommendations
-
-Collaborating on a tourism recommendation service that connects a
-**Python and FastAPI** back end to a Laravel destination catalog. The project
-combines recommendation workflows with AI-assisted conversations to help
-users explore travel options in North Sumatra.
-
-`Python` `FastAPI` `OpenAI SDK` `Laravel` `React`
-
-### Public Information Systems
-
-Extended a centralized CMS used by provincial agencies with dynamic content
-features, including automatic video embed parsing. Also developed profile
-modules for the North Sumatra Public Information and Documentation Officer
-(PPID) portal using Laravel Blade.
-
-`Laravel` `PHP` `Laravel Blade`
+My work with **Dinas Komunikasi dan Informatika Provinsi Sumatera Utara**
+includes contributions to public-sector digital services related to healthcare,
+tourism, and public information. I focus on back-end development, API
+integration, content management, and AI-assisted applications.
 
 ## Technologies & Tools
 
