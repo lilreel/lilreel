@@ -1,85 +1,75 @@
-<h1> Hello Everyone! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Hi, I'm Chalil Al Vareel 👋
+
+**Back-End Developer · Machine Learning & Data Science**
+
+I'm a Computer Science graduate from Universitas Sumatera Utara who enjoys
+building APIs and exploring practical applications of machine learning.
+
+My recent work includes healthcare APIs and AI-assisted tourism recommendations
+for North Sumatra. I am interested in back-end architecture, API integration,
+machine learning, and turning data into useful applications.
+
+[LinkedIn](https://www.linkedin.com/in/cavareel) ·
+[Instagram](https://www.instagram.com/cavareel/) ·
+[Email](mailto:chalilalvareel@gmail.com) ·
+[CV](https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing)
+
+## What I Work With
+
+**Back-end and APIs**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Machine learning and data**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+I also work with tools including Keras, Matplotlib, SciPy, Oracle Database,
+Apache Spark, R, and Git.
+
+## Selected Projects
+
+**RetinEye**  
+A thesis project that uses a deep learning model to classify eye conditions
+from fundus images, with a Flask API for testing.
+
+[View repository](https://github.com/lilreel/retineye)
+
+**Swalokal**  
+A Bangkit Academy capstone project involving image data collection and
+transfer learning for model development.
+
+[View repository](https://github.com/lilreel/Machine-Learning)
+
+**Home Credit Default Risk**  
+A machine learning project exploring supervised learning models, data
+preparation, and hyperparameter tuning.
+
+[View project](https://github.com/lilreel/KampusMerdika_StudiIndependen_Zenius_AcceleratedMLProgram/tree/main/Projek%20Akhir)
+
+## GitHub Activity
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&pause=1000&color=C620F7&width=435&lines=Welcome+to+My+Github+Profile👋;I'm+A+Computer+Science+Graduate;From+Universitas+Sumatera+Utara" alt="Typing SVG" /></a>
-</p> 
-
-- 👋 Hi, I’m Chalil Al Vareel
-- 🌱 I'm a CS Bachelor Degree Graduate from Universitas Sumatera Utara
-- 💼 I'm focused on Data Science and Analytic
-- 👨‍💻 You can check my CV in this [link](https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing)
-- 📫 Feel free to reach me at [chalilalvareel@gmail.com](mailto:chalilalvareel@gmail.com) or my social media below 👇
-
-<h2 align="left">🤳Social Media </h2>
-<p align="left">
-<a href="https://www.linkedin.com/in/cavareel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Chalil Al Vareel" height="30" width="40" /></a>
-<a href="https://www.instagram.com/cavareel/?utm_source=ig_web_button_share_sheet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.angkasah" height="30" width="40" /></a>
+  <img
+    src="./profile/stats.svg"
+    alt="Chalil's GitHub statistics"
+    height="170"
+  />
+  <img
+    src="./profile/top-langs.svg"
+    alt="Most-used languages in Chalil's public repositories"
+    height="170"
+  />
 </p>
-<p></p>
 
-## 🛠️ Tools and Skills
-  <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank">
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white">
-  </a>
-  <a href="https://www.keras.io" target="_blank">
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
-  </a>
-  <a href="https://www.matplotlib.org" target="_blank">
-    <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-  </a>
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a>
-  <a href="https://scipy.org/" target="_blank">
-    <img alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-  </a>
-<!--   <a href="https://www.postgresql.org" target="_blank">
-    <img alt="postgresql" src="https://img.shields.io/badge/postgresql-308bb3?style=for-the-badge&logo=postgresql&logoColor=white">
-  </a> -->
-  <a href="https://www.mysql.com" target="_blank">
-    <img alt="mysql" src="https://img.shields.io/badge/mysql-4f82bd?style=for-the-badge&logo=mysql&logoColor=white">
-  </a>
-   <a href="https://www.oracle.com/id/database/technologies/appdev/xe.html" target="_blank">
-    <img alt="Oracle Database XE" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  </a>
-  <a href="https://spark.apache.org/">
-    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black">
-  </a>
-  <a href="https://www.r-project.org/about.html">
-    <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
-  </a>
-  <p></p>
-
-<h2> <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> Github Stats (Expand to View) </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/lilreel/github-readme-stats"><img alt="Chalil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lilreel&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lilreel&show_icons=true&locale=en&layout=compact&theme=algolia" alt="lilreel" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/lilreel"><img alt="Chalil's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=lilreel&bg_color=0f1a37&color=c587c0&line=bf79ba&point=fbfbfb&area=true&hide_border=true" /></a>
-  <br/>
-
-</details>
+[![Chalil's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lilreel&bg_color=0f1a37&color=c587c0&line=bf79ba&point=fbfbfb&area=true&hide_border=true)](https://github.com/lilreel)
