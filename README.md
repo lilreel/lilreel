@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./banner.png"
+    src="./profile/banner.png"
     alt="Chalil Al Vareel — Back-end Developer, Data Scientist, and Data Analyst"
     width="100%"
   />
