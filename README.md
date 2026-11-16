@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cavareel">
+  <a href="https://www.linkedin.com/in/vareelac">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/cavareel/">
@@ -24,7 +24,7 @@
   <a href="mailto:chalilalvareel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1rtKnqQO5egYKJTizQU1E5miM5U0pKv-YLsXmFgoR3KA/edit?usp=sharing">
     <img src="https://img.shields.io/badge/View_CV-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
   </a>
 </p>
@@ -65,8 +65,18 @@ integration, content management, and AI-assisted applications.
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-**Also familiar with:** Matplotlib · SciPy · Oracle Database · Apache Spark · R ·
-Tableau · Microsoft Excel · Git
+**Also familiar with:** 
+
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+</p>
 
 ## Selected Projects
 
