@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cavareel">
+  <a href="https://www.linkedin.com/in/vareelac">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/cavareel/">
@@ -24,7 +24,7 @@
   <a href="mailto:chalilalvareel@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://docs.google.com/document/d/1kXhUMEexver0FSE25DaVINHaUIGbC4dr4FOnENK3AS4/edit?usp=sharing">
+  <a href="https://docs.google.com/document/d/1rtKnqQO5egYKJTizQU1E5miM5U0pKv-YLsXmFgoR3KA/edit?usp=sharing">
     <img src="https://img.shields.io/badge/View_CV-4B5563?style=for-the-badge&logo=googledocs&logoColor=white" alt="View CV" />
   </a>
 </p>
